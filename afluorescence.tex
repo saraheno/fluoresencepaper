@@ -1,0 +1,90 @@
+\documentclass[review]{elsarticle}
+
+\usepackage{lineno,hyperref}
+\modulolinenumbers[5]
+
+\journal{Journal of \LaTeX\ Templates}
+
+%%%%%%%%%%%%%%%%%%%%%%%
+%% Elsevier bibliography styles
+%%%%%%%%%%%%%%%%%%%%%%%
+%% To change the style, put a % in front of the second line of the current style and
+%% remove the % from the second line of the style you would like to use.
+%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Numbered
+%\bibliographystyle{model1-num-names}
+
+%% Numbered without titles
+%\bibliographystyle{model1a-num-names}
+
+%% Harvard
+%\bibliographystyle{model2-names.bst}\biboptions{authoryear}
+
+%% Vancouver numbered
+%\usepackage{numcompress}\bibliographystyle{model3-num-names}
+
+%% Vancouver name/year
+%\usepackage{numcompress}\bibliographystyle{model4-names}\biboptions{authoryear}
+
+%% APA style
+%\bibliographystyle{model5-names}\biboptions{authoryear}
+
+%% AMA style
+%\usepackage{numcompress}\bibliographystyle{model6-num-names}
+
+%% `Elsevier LaTeX' style
+\bibliographystyle{elsarticle-num}
+%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\begin{frontmatter}
+
+\title{Fluorescence yield for plastic scintillators after radiation }
+
+
+%% or include affiliations in footnotes:
+\author[umd]{Zishuo Yang\corref{mycorrespondingauthor}}
+\cortext[mycorrespondingauthor]{Corresponding author}
+\ead{yangzs@terpmail.umd.edu}
+\author[umd]{Alberto Belloni}
+\author[umd]{Sarah C. Eno}
+\author[eljen]{Charles Hurlbut}
+\author[umd]{Geng Yuan Jeng}
+\author[umd]{Yao Yao}
+
+
+
+
+\address[umd]{Dept. Physics, U. Maryland, College Park MD 30742 USA}
+\address[eljen]{Eljen Technology, 1300 W. Broadway, Sweetwater, Tx 79556 USA}
+
+
+\begin{abstract}
+The fluorescence yield versus wavelength for plastic scintillators EJ-408 and EJ-260 for doses of 50, 30, 10, 4, and 2 Mrad from a $\rm {^{60}Co}$ source at various dose rates and for different concentrations of the primary and secondary dopant.  While the nominal dopant concentration gives the highest light output prior to irradiation, a higher concentration is found to be optimal for irradiated plastics.
+\end{abstract}
+
+\begin{keyword}
+\texttt{elsarticle.cls}\sep plastic scintillator\sep fluorescence\sep radiation hardness\sep 
+\end{keyword}
+
+\end{frontmatter}
+
+\linenumbers
+
+\section{Introduction}
+
+\section{Results}
+
+
+\section{Conclusions}
+
+\section{Acknowledgements}
+The authors would like to thank Neil Blough and Anna Pla-Dalmau for advice on taking fluorescence measurements, and Blough for the use of his machine.  This work was supported in part by U.S. Department of Energy Grant YYYYY.
+
+\section*{References}
+
+\bibliography{afluorescence}
+
+\end{document}
