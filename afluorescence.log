@@ -1,4 +1,4 @@
-This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2013.6.3)  25 MAY 2015 13:29
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2013.6.3)  25 MAY 2015 13:36
 entering extended mode
 **afluorescence.tex
 (./afluorescence.tex
@@ -82,7 +82,7 @@ File: upsy.fd 2001/06/04 font definitions for U/psy.
 \@enLab=\toks16
 \@sep=\skip43
 \@@sep=\skip44
-
+ (./afluorescence.spl)
 (/usr/share/texmf/tex/latex/natbib/natbib.sty
 Package: natbib 2003/06/06 7.1 (PWD)
 \bibhang=\skip45
@@ -156,8 +156,7 @@ Package hyperref Info: Link coloring OFF on input line 2638.
 File: hpdftex.def 2003/11/30 v6.74m Hyperref driver for pdfTeX
 \Fld@listcount=\count108
 \@outlinefile=\write4
-)
-No file afluorescence.aux.
+) (./afluorescence.aux)
 \openout1 = `afluorescence.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
@@ -174,6 +173,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
+
 (/usr/share/texmf/tex/context/base/supp-pdf.tex
 (/usr/share/texmf/tex/context/base/supp-mis.tex
 loading : Context Support Macros / Miscellaneous (2004.10.26)
@@ -227,31 +227,30 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 72.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 72.
-
-No file afluorescence.bbl.
-[1
+ [1
 
 
-{/usr/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./afluorescence.aux) ) 
+{/usr/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./afluorescence.bbl
+) [2] (./afluorescence.aux) ) 
 Here is how much of TeX's memory you used:
- 3180 strings out of 94500
- 41297 string characters out of 1176767
- 95161 words of memory out of 1000000
- 6338 multiletter control sequences out of 10000+50000
- 8274 words of font info for 29 fonts, out of 500000 for 2000
+ 3220 strings out of 94500
+ 41741 string characters out of 1176767
+ 96311 words of memory out of 1000000
+ 6358 multiletter control sequences out of 10000+50000
+ 11207 words of font info for 39 fonts, out of 500000 for 2000
  580 hyphenation exceptions out of 1000
- 32i,7n,36p,445b,229s stack positions out of 1500i,500n,5000p,200000b,5000s
+ 32i,7n,36p,445b,292s stack positions out of 1500i,500n,5000p,200000b,5000s
 PDF statistics:
- 52 PDF objects out of 300000
- 10 named destinations out of 131072
- 17 words of extra memory for PDF output out of 65536
-</usr/share/texmf/fonts/type1/bluesky/cm/cmr8.pfb></usr/
-share/texmf/fonts/type1/bluesky/cm/cmsy6.pfb></usr/share/texmf/fonts/type1/blue
-sky/cm/cmss8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmtt10.pfb></usr/shar
-e/texmf/fonts/type1/bluesky/cm/cmti10.pfb></usr/share/texmf/fonts/type1/bluesky
-/cm/cmbx10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmti8.pfb></usr/share/t
-exmf/fonts/type1/bluesky/cm/cmti7.pfb></usr/share/texmf/fonts/type1/bluesky/cm/
-cmr7.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/f
-onts/type1/bluesky/cm/cmr12.pfb>
-Output written on afluorescence.pdf (1 page, 66149 bytes).
+ 80 PDF objects out of 300000
+ 14 named destinations out of 131072
+ 49 words of extra memory for PDF output out of 65536
+</usr/share/texmf/fonts/type1/bluesky/cm/cmtt8.pfb
+></usr/share/texmf/fonts/type1/bluesky/cm/cmr8.pfb></usr/share/texmf/fonts/type
+1/bluesky/cm/cmsy6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmss8.pfb></usr
+/share/texmf/fonts/type1/bluesky/cm/cmtt10.pfb></usr/share/texmf/fonts/type1/bl
+uesky/cm/cmti10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmbx10.pfb></usr/s
+hare/texmf/fonts/type1/bluesky/cm/cmti8.pfb></usr/share/texmf/fonts/type1/blues
+ky/cm/cmti7.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy7.pfb></usr/share/
+texmf/fonts/type1/bluesky/cm/cmr7.pfb></usr/share/texmf/fonts/type1/bluesky/cm/
+cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr12.pfb>
+Output written on afluorescence.pdf (2 pages, 80555 bytes).
