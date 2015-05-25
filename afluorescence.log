@@ -1,4 +1,4 @@
-This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2013.6.3)  25 MAY 2015 15:08
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2013.6.3)  25 MAY 2015 15:19
 entering extended mode
 **afluorescence.tex
 (./afluorescence.tex
@@ -230,8 +230,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 
-{/usr/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] (./afluo
-rescence.bbl
+{/usr/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] <plot_EJ200-
+1X_EMS.pdf, id=103, 569.12625pt x 387.4475pt>
+File: plot_EJ200-1X_EMS.pdf Graphic file (type pdf)
+
+<use plot_EJ200-1X_EMS.pdf> [4 <./plot_EJ200-1X_EMS.pdf, page is rotated 90 deg
+rees>] [5] (./afluorescence.bbl
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ƒ in font cmr10!
 Missing character: There is no Â in font cmr10!
@@ -242,7 +246,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--26
 science / article / pii /
  []
 
-[5]
+
 Underfull \hbox (badness 1571) in paragraph at lines 49--59
 \OT1/cmr/m/n/10 143.  []http://dx.doi.org/http://dx.doi.org/10.1016/0168-583X(9
 4)00435-8[]
@@ -284,17 +288,17 @@ Underfull \hbox (badness 1571) in paragraph at lines 75--82
 
 ) [7] (./afluorescence.aux) ) 
 Here is how much of TeX's memory you used:
- 3220 strings out of 94500
- 41756 string characters out of 1176767
- 97412 words of memory out of 1000000
- 6355 multiletter control sequences out of 10000+50000
+ 3229 strings out of 94500
+ 41923 string characters out of 1176767
+ 97447 words of memory out of 1000000
+ 6362 multiletter control sequences out of 10000+50000
  8442 words of font info for 30 fonts, out of 500000 for 2000
  580 hyphenation exceptions out of 1000
- 32i,7n,36p,485b,276s stack positions out of 1500i,500n,5000p,200000b,5000s
+ 32i,7n,36p,485b,275s stack positions out of 1500i,500n,5000p,200000b,5000s
 PDF statistics:
- 171 PDF objects out of 300000
- 26 named destinations out of 131072
- 57 words of extra memory for PDF output out of 65536
+ 216 PDF objects out of 300000
+ 27 named destinations out of 131072
+ 62 words of extra memory for PDF output out of 65536
 </usr/share/texmf/fonts/type1/bluesky/cm/cmtt10.pf
 b></usr/share/texmf/fonts/type1/bluesky/cm/cmex10.pfb></usr/share/texmf/fonts/t
 ype1/bluesky/cm/cmr5.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi7.pfb></u
@@ -308,4 +312,4 @@ mf/fonts/type1/bluesky/cm/cmti7.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cm
 sy7.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr7.pfb></usr/share/texmf/fon
 ts/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr12.pf
 b>
-Output written on afluorescence.pdf (7 pages, 129316 bytes).
+Output written on afluorescence.pdf (7 pages, 160861 bytes).
