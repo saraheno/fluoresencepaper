@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
 \expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
@@ -70,6 +70,13 @@ I.~Rosman, K.~Zimmer, \href{http://dx.doi.org/10.1007/BF01480707}{Damage to
 \newblock \href {http://dx.doi.org/10.1007/BF01480707}
   {\path{doi:10.1007/BF01480707}}.
 \newline\urlprefix\url{http://dx.doi.org/10.1007/BF01480707}
+
+\bibitem{berlman}
+I.~berlman, \href{http://www.osti.gov/scitech/biblio/4337369}{The effect of
+  massive co$^{60}$ doses on the light output of a scintillator solution},
+  Radiological Physics Division Semiannula Report for July through December
+  1957.
+\newline\urlprefix\url{http://www.osti.gov/scitech/biblio/4337369}
 
 \bibitem{Biagtan1996125}
 E.~Biagtan, E.~Goldberg, R.~Stephens, E.~Valeroso, J.~Harmon, Gamma dose and
