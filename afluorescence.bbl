@@ -63,6 +63,14 @@ A.~Bross, A.~Pla-Dalmau, Radiation damage of plastic scintillators, Nuclear
 \newblock \href {http://dx.doi.org/10.1109/23.173178}
   {\path{doi:10.1109/23.173178}}.
 
+\bibitem{rosmanzimmer}
+I.~Rosman, K.~Zimmer, \href{http://dx.doi.org/10.1007/BF01480707}{Damage to
+  plastic scintillators by ionizing radiation}, The Soviet Journal of Atomic
+  Energy 2~(1) (1957) 57--62.
+\newblock \href {http://dx.doi.org/10.1007/BF01480707}
+  {\path{doi:10.1007/BF01480707}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1007/BF01480707}
+
 \bibitem{Biagtan1996125}
 E.~Biagtan, E.~Goldberg, R.~Stephens, E.~Valeroso, J.~Harmon, Gamma dose and
   dose rate effects on scintillator light output, Nuclear Instruments and
