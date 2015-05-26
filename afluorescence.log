@@ -1,4 +1,4 @@
-This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2013.6.3)  25 MAY 2015 15:34
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2013.6.3)  26 MAY 2015 09:21
 entering extended mode
 **afluorescence.tex
 (./afluorescence.tex
@@ -231,7 +231,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 {/usr/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] <plot_EJ200-
-1X_EMS.pdf, id=106, 569.12625pt x 387.4475pt>
+1X_EMS.pdf, id=107, 569.12625pt x 387.4475pt>
 File: plot_EJ200-1X_EMS.pdf Graphic file (type pdf)
 
 <use plot_EJ200-1X_EMS.pdf> [4 <./plot_EJ200-1X_EMS.pdf, page is rotated 90 deg
@@ -276,16 +276,16 @@ Underfull \hbox (badness 3271) in paragraph at lines 82--89
 
 ) [7] (./afluorescence.aux) ) 
 Here is how much of TeX's memory you used:
- 3231 strings out of 94500
- 41944 string characters out of 1176767
- 97463 words of memory out of 1000000
- 6363 multiletter control sequences out of 10000+50000
+ 3233 strings out of 94500
+ 41956 string characters out of 1176767
+ 97466 words of memory out of 1000000
+ 6364 multiletter control sequences out of 10000+50000
  8442 words of font info for 30 fonts, out of 500000 for 2000
  580 hyphenation exceptions out of 1000
  32i,7n,36p,485b,277s stack positions out of 1500i,500n,5000p,200000b,5000s
 PDF statistics:
- 221 PDF objects out of 300000
- 28 named destinations out of 131072
+ 222 PDF objects out of 300000
+ 29 named destinations out of 131072
  62 words of extra memory for PDF output out of 65536
 </usr/share/texmf/fonts/type1/bluesky/cm/cmtt10.pf
 b></usr/share/texmf/fonts/type1/bluesky/cm/cmex10.pfb></usr/share/texmf/fonts/t
@@ -300,4 +300,4 @@ mf/fonts/type1/bluesky/cm/cmti7.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cm
 sy7.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr7.pfb></usr/share/texmf/fon
 ts/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr12.pf
 b>
-Output written on afluorescence.pdf (7 pages, 162497 bytes).
+Output written on afluorescence.pdf (7 pages, 163591 bytes).
