@@ -188,7 +188,7 @@ with dimensions of 1x1x5cm.  For the EJ-408, bars were made with concentration o
 the standard concentration.  For the EJ-260, bars with made with concentrations of the primary (x) and secondary (p) dopant of 1x1p, 1x2p,1x4p,2x1p,4x1p,2x2p, and 4x4p.
 The fluorescence output was measured using a fluoromax-4 fluorometer by Horiba Scientific using a right-angle configuration and an excitation wavelength of
 XXX nm.  For the absorption measurements, a xxx by xxx was used.
-Air was used as the reference.  In \cite{Bross199135}, the integration
+Air was used as the reference.  In \ref{Bross199135}, the integration
 of the fluoresence spectra was shown to reproduce the results using a
 $\rm{^{207}Bi}$ source to within a few percent for most dopants.
 
