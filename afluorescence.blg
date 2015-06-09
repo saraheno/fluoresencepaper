@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: afluorescence.aux
 The style file: elsarticle-num.bst
 Database file #1: afluorescence.bib
-You've used 14 entries,
+You've used 15 entries,
             2937 wiz_defined-function locations,
-            774 strings with 8381 characters,
-and the built_in function-call counts, 5229 in all, are:
-= -- 498
-> -- 190
+            783 strings with 8772 characters,
+and the built_in function-call counts, 5629 in all, are:
+= -- 537
+> -- 206
 < -- 4
-+ -- 72
-- -- 58
-* -- 455
-:= -- 725
-add.period$ -- 27
-call.type$ -- 14
-change.case$ -- 16
++ -- 78
+- -- 63
+* -- 497
+:= -- 782
+add.period$ -- 29
+call.type$ -- 15
+change.case$ -- 17
 chr.to.int$ -- 3
-cite$ -- 14
-duplicate$ -- 139
-empty$ -- 536
-format.name$ -- 70
-if$ -- 1320
+cite$ -- 15
+duplicate$ -- 149
+empty$ -- 576
+format.name$ -- 76
+if$ -- 1419
 int.to.chr$ -- 0
-int.to.str$ -- 14
-missing$ -- 14
-newline$ -- 63
-num.names$ -- 16
-pop$ -- 69
+int.to.str$ -- 15
+missing$ -- 15
+newline$ -- 68
+num.names$ -- 17
+pop$ -- 74
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 308
+skip$ -- 325
 stack$ -- 0
-substring$ -- 345
-swap$ -- 60
+substring$ -- 372
+swap$ -- 64
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 31
-width$ -- 16
-write$ -- 148
+while$ -- 33
+width$ -- 17
+write$ -- 159

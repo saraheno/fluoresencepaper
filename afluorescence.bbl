@@ -65,6 +65,17 @@ A.~Bross, A.~Pla-Dalmau, Radiation damage of plastic scintillators, Nuclear
 \newblock \href {http://dx.doi.org/10.1109/23.173178}
   {\path{doi:10.1109/23.173178}}.
 
+\bibitem{Giokaris1993315}
+N.~Giokaris, M.~Contreras, A.~Pla-Dalmau, J.~Zimmerman, K.~Johnson,
+  \href{http://www.sciencedirect.com/science/article/pii/0969806X93900697}{Study
+  of dose-rate effects on the radiation damage of polymer-based scsn23, scsn81,
+  scsn81+y7, scsn81+y8 and 3hf scintillators}, Radiation Physics and Chemistry
+  41~(1–2) (1993) 315 -- 320.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/0969-806X(93)90069-7}
+  {\path{doi:http://dx.doi.org/10.1016/0969-806X(93)90069-7}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/0969806X93900697}
+
 \bibitem{Wulkop1995141}
 B.~Wulkop, K.~Wick, W.~Busjan, A.~Dannemann, U.~Holm, Evidence for the creation
   of short-lived absorption centers in irradiated scintillators, Nuclear
