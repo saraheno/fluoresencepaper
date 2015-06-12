@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  10 JUN 2015 13:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  12 JUN 2015 14:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -311,14 +311,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
  [4]
-<plot_EJ200-1X_EMS.pdf, id=98, 569.12625pt x 387.4475pt>
-File: plot_EJ200-1X_EMS.pdf Graphic file (type pdf)
+<./figures/plot_EJ200-1X_EMS.pdf, id=98, 569.12625pt x 387.4475pt>
+File: ./figures/plot_EJ200-1X_EMS.pdf Graphic file (type pdf)
 
-<use plot_EJ200-1X_EMS.pdf>
-Package pdftex.def Info: plot_EJ200-1X_EMS.pdf used on input line 205.
+<use ./figures/plot_EJ200-1X_EMS.pdf>
+Package pdftex.def Info: ./figures/plot_EJ200-1X_EMS.pdf used on input line 205
+.
 (pdftex.def)             Requested size: 169.0519pt x 115.08821pt.
- [5] [6 <./plot_EJ200-1X_EMS.pdf, page is rotated 90 degrees>] (./afluorescence
-.bbl
+ [5] [6 <./figures/plot_EJ200-1X_EMS.pdf, page is rotated 90 degrees>] (./afluo
+rescence.bbl
 Underfull \hbox (badness 1590) in paragraph at lines 16--24
 []\OT1/cmr/m/n/10 A. Bross, A. Pla-Dalmau, B. Baum-baugh, J. God-frey, J. Jaque
 s,
@@ -366,8 +367,8 @@ Package rerunfilecheck Info: File `afluorescence.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 259.
  ) 
 Here is how much of TeX's memory you used:
- 5932 strings out of 493117
- 86358 string characters out of 6135433
+ 5933 strings out of 493117
+ 86408 string characters out of 6135433
  175658 words of memory out of 5000000
  9313 multiletter control sequences out of 15000+600000
  8442 words of font info for 30 fonts, out of 8000000 for 9000
@@ -391,7 +392,7 @@ e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
 exmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2014/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2014/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on afluorescence.pdf (9 pages, 240464 bytes).
+Output written on afluorescence.pdf (9 pages, 240475 bytes).
 PDF statistics:
  274 PDF objects out of 1000 (max. 8388607)
  216 compressed objects within 3 object streams
