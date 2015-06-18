@@ -5,6 +5,12 @@
 \expandafter\ifx\csname href\endcsname\relax
   \def\href#1#2{#2} \def\path#1{#1}\fi
 
+\bibitem{ecfa2015}
+\href{https://cds.cern.ch/record/1983664}{{ECFA High Luminosity LHC Experiments
+  Workshop: Physics and Technology Developments Summary submitted to ECFA. 96th
+  Plenary ECFA meeting}}.
+\newline\urlprefix\url{https://cds.cern.ch/record/1983664}
+
 \bibitem{sauli}
 C.~Zorn, Plastic and liquid organic scintillators, in: F.~Sauli (Ed.),
   Instrumentation in High Energy Physics, 2nd Edition, World Scientific, 1993,

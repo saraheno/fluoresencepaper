@@ -1,46 +1,49 @@
-This is BibTeX, Version 0.99d (TeX Live 2014)
+This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: afluorescence.aux
 The style file: elsarticle-num.bst
 Database file #1: afluorescence.bib
-You've used 15 entries,
+Warning--empty author in ecfa2015
+Warning--empty journal in ecfa2015
+You've used 16 entries,
             2937 wiz_defined-function locations,
-            783 strings with 8772 characters,
-and the built_in function-call counts, 5629 in all, are:
-= -- 537
-> -- 206
+            788 strings with 8958 characters,
+and the built_in function-call counts, 5785 in all, are:
+= -- 548
+> -- 207
 < -- 4
-+ -- 78
++ -- 79
 - -- 63
-* -- 497
-:= -- 782
-add.period$ -- 29
-call.type$ -- 15
-change.case$ -- 17
+* -- 509
+:= -- 798
+add.period$ -- 30
+call.type$ -- 16
+change.case$ -- 18
 chr.to.int$ -- 3
-cite$ -- 15
-duplicate$ -- 149
-empty$ -- 576
+cite$ -- 18
+duplicate$ -- 156
+empty$ -- 598
 format.name$ -- 76
-if$ -- 1419
+if$ -- 1462
 int.to.chr$ -- 0
-int.to.str$ -- 15
-missing$ -- 15
-newline$ -- 68
+int.to.str$ -- 16
+missing$ -- 16
+newline$ -- 72
 num.names$ -- 17
-pop$ -- 74
+pop$ -- 83
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 325
+skip$ -- 337
 stack$ -- 0
 substring$ -- 372
-swap$ -- 64
+swap$ -- 65
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 0
+warning$ -- 2
 while$ -- 33
-width$ -- 17
-write$ -- 159
+width$ -- 18
+write$ -- 165
+(There were 2 warnings)
