@@ -5,6 +5,16 @@
 \expandafter\ifx\csname href\endcsname\relax
   \def\href#1#2{#2} \def\path#1{#1}\fi
 
+\bibitem{phaseiitdr}
+J.~F. Butler, D.~U. C. B.-L.~I. Contardo, M.~M. Klute, J.~U. o.~M. Mans,
+  L.~I.-B. Silvestris, \href{https://cds.cern.ch/record/2020886}{{Technical
+  Proposal for the Phase-II Upgrade of the CMS Detector}}, Tech. Rep.
+  CERN-LHCC-2015-010. LHCC-P-008, CERN, Geneva, upgrade Project Leader
+  Deputies: Lucia Silvestris (INFN-Bari), Jeremy Mans (University of Minnesota)
+  Additional contacts: Lucia.Silvestris@cern.ch, Jeremy.Mans@cern.ch (Jun
+  2015).
+\newline\urlprefix\url{https://cds.cern.ch/record/2020886}
+
 \bibitem{ecfa2015}
 \href{https://cds.cern.ch/record/1983664}{{ECFA High Luminosity LHC Experiments
   Workshop: Physics and Technology Developments Summary submitted to ECFA. 96th

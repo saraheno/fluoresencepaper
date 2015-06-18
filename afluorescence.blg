@@ -5,45 +5,45 @@ The style file: elsarticle-num.bst
 Database file #1: afluorescence.bib
 Warning--empty author in ecfa2015
 Warning--empty journal in ecfa2015
-You've used 16 entries,
+You've used 17 entries,
             2937 wiz_defined-function locations,
-            788 strings with 8958 characters,
-and the built_in function-call counts, 5785 in all, are:
-= -- 548
-> -- 207
-< -- 4
-+ -- 79
-- -- 63
-* -- 509
-:= -- 798
-add.period$ -- 30
-call.type$ -- 16
-change.case$ -- 18
+            797 strings with 9431 characters,
+and the built_in function-call counts, 6116 in all, are:
+= -- 583
+> -- 223
+< -- 5
++ -- 85
+- -- 68
+* -- 536
+:= -- 849
+add.period$ -- 31
+call.type$ -- 17
+change.case$ -- 20
 chr.to.int$ -- 3
-cite$ -- 18
-duplicate$ -- 156
-empty$ -- 598
-format.name$ -- 76
-if$ -- 1462
+cite$ -- 19
+duplicate$ -- 168
+empty$ -- 629
+format.name$ -- 82
+if$ -- 1547
 int.to.chr$ -- 0
-int.to.str$ -- 16
+int.to.str$ -- 17
 missing$ -- 16
-newline$ -- 72
-num.names$ -- 17
-pop$ -- 83
+newline$ -- 76
+num.names$ -- 18
+pop$ -- 88
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 337
+skip$ -- 357
 stack$ -- 0
-substring$ -- 372
-swap$ -- 65
-text.length$ -- 3
+substring$ -- 374
+swap$ -- 68
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 2
-while$ -- 33
-width$ -- 18
-write$ -- 165
+while$ -- 34
+width$ -- 19
+write$ -- 177
 (There were 2 warnings)
