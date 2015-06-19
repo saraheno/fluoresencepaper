@@ -78,7 +78,7 @@ plastic scintillator\sep fluorescence\sep radiation hardness
 \section{Introduction}
 Organic scintillators such as polystyrene (PS) or polyvinyltoluene (PVT)
 containing wave-length shifting
-additives in solution have long been popular elements in detectors used
+:quadditives in solution have long been popular elements in detectors used
 in particle physics, nuclear physics, radiation safety, and heath physics applications  due to their high light output, low cost, fast response,
 and versatility of physical construction. 
 Prolonged exposure of plastic scintillator to
@@ -98,17 +98,17 @@ The effect of dose and dose rate on radiation-induced yellowing have been the su
 Immediately after irradiation at a high dose rate (Mrads/hr), 
 the probability of absorption for visible light increases for wavelengths shorter than around 600 nm (yellow) due to color centers that form in the substrate\cite{Bross199135}.  
 After irradiation, interactions of oxygen that diffuses into the plastic reduces the color center density, and the plastic ``bleaches''.  On time scales of orders of months, the bleaching stops, and some permenant damage (color centers) remains~\cite{sauli}.
-Oxygen is essential for this curing process, although samples irradiated in inert atmospheres have smaller permanent damage, even if the initial damage for high dose rate exposures is larger\cite{zorn2}.  
+Oxygen is essential for this curing process, although samples irradiated in inert atmospheres have smaller permenant damage, even if the initial damage for high dose rate exposures is larger\cite{zorn2}.  
 
 Dose rate effects for the initial yellowing, immediately after irradiation, are well documented  \cite{sauli},\cite{34504},\cite{Wick1991472},\cite{289295},\cite{173180},\cite{173178},\cite{Giokaris1993315}.  
-Here again the presence of oxygen plays an important role.  The studies show that the penetration depth of oxygen into the substrate
+Here again the presense of oxygen plays an important role.  The studies show that the penetration depth of oxygen into the substrate
 depends on the dose rate: at lower dose rates, oxygen penetrates
 more deeply.  Because of the importance of the interaction
 of oxygen with radicals produced from the substrate during irradiation, this can lead to dose rate effects.
 Simulations based on oxygen diffusion have been shown
-to reproduce the time dependence of the induced attenuation length in scintillators based on polystyrene and PMMA\cite{Wick1991472}.  
+to reproduce the time dependence of the induced attentuation length in scintillators based on polystyrene and PMMA\cite{Wick1991472}.  
 As discussed 
-in \cite{Wulkop1995141}, the presence of oxygen
+in \cite{Wulkop1995141}, the presense of oxygen
 increases the number of migration mechanisms for the radicals produced during irradiation.  
 
 
@@ -130,7 +130,7 @@ liquid scintillators and for various plastic scintillators respectively.
 
 In another study by Bross, Pla-Dalmau, et al. from 1991\cite{Bross199135}, the authors look at light output for various 
 primary (DAT, MOPOM, OLIGO408, OLIGO415A) and 
-secondary (BBQ, K27, DMPOPOP, 3HF) dopants 
+seconary (BBQ, K27, DMPOPOP, 3HF) dopants 
 in PS
 for a dose of 10 Mrad accumulated with a relatively high (0.4 Mrad/h) dose rate.  They looked at this for 2 different concentrations of the secondary dopant.  They optimized the concentration of the first dopant using the light output before irradation.  They found no change to the intrinsic light output, indicating at high dose rates the dopants were
 not damaged by this large dose.  
@@ -181,7 +181,7 @@ $2$ Mrad/hr.  Note that the effect is not small: for a
 dose of 2 Mrad, the light loss is negligible for a dose rate
 of 2 Mrad/hr but 20\% for a dose rate of 0.01 Mrad/hr for SCSN-81.
 
-In order to understand the relative role of destruction of the dopants versus damage to the substrate for modern scintillating plastics,
+In order to understand the relative role of destruction of the dopants versus damage to the substrate for modern scintilating plastics,
 we have studied the light output for two plastic scintillators, EJ-200 and EJ-260, varying the concentration of the dopants, for
 different total doses and dose rates.  
 
@@ -196,10 +196,10 @@ the standard concentration.  For the EJ-260, bars with made with concentrations 
 The fluorescence output was measured using a fluoromax-4 fluorometer by Horiba Scientific using a right-angle configuration and an excitation wavelength of
 XXX nm.  For the absorption measurements, a xxx by xxx was used.
 Air was used as the reference.  In \cite{Bross199135}, the integration
-of the fluorescence spectra was shown to reproduce the results using a
+of the fluoresence spectra was shown to reproduce the results using a
 $\rm{^{207}Bi}$ source to within a few percent for most dopants.
 
-Radiations were done using a ${\rm ^{60}Co}$ source at the University of Maryland with an activity of XXXXX.  
+Radiations were done using a ${\rm ^{60}Co}$ source at the Univesity of Maryland with an activity of XXXXX.  
 The dose was measured using...
 
 Figure\ref{fig:ej200doping1x} shows the spectra for EJ-200 with nominal doping before irradiation and after
