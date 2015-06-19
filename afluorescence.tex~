@@ -90,7 +90,7 @@ In this paper, we present measurements of ratio of the light output before and a
 for two different types of plastic scintillator manufactured by Eljen corporation, EJ-200 (similar to BC-408 from Bicron corporation) and EJ-260 (similar to BC-428), before and after irradiation by a $\rm {^{60}Co}$ source for doses of 50, 30, 10, 4, and 2 Mrad at various dose rates and for different concentrations of the primary and secondary dopant.
 Dose rate effects are of interest because materials testing is typically done at much higher dose rates, because of the cost of reactor time, than the scintillator will experience in use.  Dose rate effects may be responsible for the
 factor of three larger light loss with integrated luminosity 
-in the CMS endcap calorimeter\cite{ecfa2015}
+in the CMS endcap calorimeter\cite{phaseiitdr},\cite{ecfa2015}
 than expected based
 on high dose rate exposures using ${\rm ^{60}Co}$ sources.
 
@@ -98,17 +98,17 @@ The effect of dose and dose rate on radiation-induced yellowing have been the su
 Immediately after irradiation at a high dose rate (Mrads/hr), 
 the probability of absorption for visible light increases for wavelengths shorter than around 600 nm (yellow) due to color centers that form in the substrate\cite{Bross199135}.  
 After irradiation, interactions of oxygen that diffuses into the plastic reduces the color center density, and the plastic ``bleaches''.  On time scales of orders of months, the bleaching stops, and some permenant damage (color centers) remains~\cite{sauli}.
-Oxygen is essential for this curing process, although samples irradiated in inert atmospheres have smaller permenant damage, even if the initial damage for high dose rate exposures is larger\cite{zorn2}.  
+Oxygen is essential for this curing process, although samples irradiated in inert atmospheres have smaller permanent damage, even if the initial damage for high dose rate exposures is larger\cite{zorn2}.  
 
 Dose rate effects for the initial yellowing, immediately after irradiation, are well documented  \cite{sauli},\cite{34504},\cite{Wick1991472},\cite{289295},\cite{173180},\cite{173178},\cite{Giokaris1993315}.  
-Here again the presense of oxygen plays an important role.  The studies show that the penetration depth of oxygen into the substrate
+Here again the presence of oxygen plays an important role.  The studies show that the penetration depth of oxygen into the substrate
 depends on the dose rate: at lower dose rates, oxygen penetrates
 more deeply.  Because of the importance of the interaction
 of oxygen with radicals produced from the substrate during irradiation, this can lead to dose rate effects.
 Simulations based on oxygen diffusion have been shown
-to reproduce the time dependence of the induced attentuation length in scintillators based on polystyrene and PMMA\cite{Wick1991472}.  
+to reproduce the time dependence of the induced attenuation length in scintillators based on polystyrene and PMMA\cite{Wick1991472}.  
 As discussed 
-in \cite{Wulkop1995141}, the presense of oxygen
+in \cite{Wulkop1995141}, the presence of oxygen
 increases the number of migration mechanisms for the radicals produced during irradiation.  
 
 
@@ -128,9 +128,9 @@ to the dopant.  Subsequent studies (\cite{berlman} \cite{173178}) came to a simi
 liquid scintillators and for various plastic scintillators respectively. 
 
 
-In another study by Bross, Pla-Dalmau, et al. from 1991\cite{Bross199135}, the authors look at light output for various 
+In another study, by Bross, Pla-Dalmau, et al. from 1991\cite{Bross199135}, the authors look at light output for various 
 primary (DAT, MOPOM, OLIGO408, OLIGO415A) and 
-seconary (BBQ, K27, DMPOPOP, 3HF) dopants 
+secondary (BBQ, K27, DMPOPOP, 3HF) dopants 
 in PS
 for a dose of 10 Mrad accumulated with a relatively high (0.4 Mrad/h) dose rate.  They looked at this for 2 different concentrations of the secondary dopant.  They optimized the concentration of the first dopant using the light output before irradation.  They found no change to the intrinsic light output, indicating at high dose rates the dopants were
 not damaged by this large dose.  
@@ -140,9 +140,9 @@ increasing the dopant concentration from nominal to 20 times nominal continuousl
 
 In \cite{Majewski1989500}, the radiation resistance of BC-408 (from Bicron Corporation) was studied for different concentrations of the dopant from half to $3/2$ the nominal concentration.  The study was done at very high dose rate (36 Mrad/hr) and a total dose of 3 Mrad.  They saw that varying the concentration of the secondary fluor did not affect the output as studied with a $\rm{^{207}Bi}$ electron source.  They found decreasing the secondary dopant made it less rad hard, but increasing did not help.  
 
-In \cite{Giokaris1993315}, from 1993, the authors look at SCSN81,SCSN23, 3HF, based on PS. were studied at doses between 10 krad to 1 Mrad and three dose rates, 1.2 Mrad/hr, 0.01 Mrad/h using a long piece of plastic and a ${^{90}Sr}$ beta source.
+In \cite{Giokaris1993315}, from 1993, the authors look at SCSN81,SCSN23, 3HF, based on PS. were studied at doses between 10 krad to 1 Mrad and three dose rates, 1.2 Mrad/hr, 0.01 Mrad/h, using a long piece of plastic and a ${^{90}Sr}$ beta source.
 They also looked at 0.0003 Mrad/hr with doses of 1.3 and 0.57 Mrad.
-They saw a decrease a small decrease in light output after recovery.
+They saw a small decrease in light output after recovery.
 
 In \cite{Wick1991472}, decreased light
 output for a plastic scintillator from Kuraray, SCSN-38, which
@@ -181,7 +181,7 @@ $2$ Mrad/hr.  Note that the effect is not small: for a
 dose of 2 Mrad, the light loss is negligible for a dose rate
 of 2 Mrad/hr but 20\% for a dose rate of 0.01 Mrad/hr for SCSN-81.
 
-In order to understand the relative role of destruction of the dopants versus damage to the substrate for modern scintilating plastics,
+In order to understand the relative role of destruction of the dopants versus damage to the substrate for modern scintillating plastics,
 we have studied the light output for two plastic scintillators, EJ-200 and EJ-260, varying the concentration of the dopants, for
 different total doses and dose rates.  
 
@@ -189,17 +189,17 @@ different total doses and dose rates.
 
 
 \section{Measurements}
-Both EJ-200 and EJ-260 use PVT as a substrate.  EJ-200 has a light output that is 60\% of anthracene and a wavelength of maximum emission of 435 nm.  
-EJ-260 also has a light output that is 60\% of anthracene but a wavelength of maximum emission of 490 nm.  Eljen prepared scintillator bars
+Both EJ-200 and EJ-260 use PVT as a substrate.  EJ-200 has a light output that is 60\% of anthracene and a wavelength of maximum emission of 435 nm (blue).  
+EJ-260 also has a light output that is 60\% of anthracene but a wavelength of maximum emission of 490 nm (green).  Eljen prepared scintillator bars
 with dimensions of 1x1x5cm.  For the EJ-200, bars were made with concentration of the primary scintillation dopant at 0.5, 1.0, 1.5, and 2.0 that of
 the standard concentration.  For the EJ-260, bars with made with concentrations of the primary (x) and secondary (p) dopant of 1x1p, 1x2p,1x4p,2x1p,4x1p,2x2p, and 4x4p.
 The fluorescence output was measured using a fluoromax-4 fluorometer by Horiba Scientific using a right-angle configuration and an excitation wavelength of
 XXX nm.  For the absorption measurements, a xxx by xxx was used.
 Air was used as the reference.  In \cite{Bross199135}, the integration
-of the fluoresence spectra was shown to reproduce the results using a
+of the fluorescence spectra was shown to reproduce the results using a
 $\rm{^{207}Bi}$ source to within a few percent for most dopants.
 
-Radiations were done using a ${\rm ^{60}Co}$ source at the Univesity of Maryland with an activity of XXXXX.  
+Radiations were done using a ${\rm ^{60}Co}$ source at the University of Maryland with an activity of XXXXX.  
 The dose was measured using...
 
 Figure\ref{fig:ej200doping1x} shows the spectra for EJ-200 with nominal doping before irradiation and after
@@ -255,7 +255,12 @@ affect diffusion.
 \section{Conclusions}
 
 \section{Acknowledgements}
-The authors would like to thank Neil Blough and Anna Pla-Dalmau for advice on taking fluorescence measurements, and Blough for the use of his machine. We thank Saint Anselm's Abbey school for use of their 3D printer.   This work was supported in part by U.S. Department of Energy Grant DESC0010072.
+The authors would like to thank Neil Blough and Anna Pla-Dalmau for advice on taking fluorescence measurements, and Blough for the use of his machine. We thank Saint Anselm's Abbey school for use of their 3D printer.   
+The authors would like to thank {\color{red} various people} at
+the University of Maryland's Nuclear Reactor and Radiation
+Facilities group for assistance
+with the irradiations.
+This work was supported in part by U.S. Department of Energy Grant DESC0010072.
 
 \section*{References}
 
