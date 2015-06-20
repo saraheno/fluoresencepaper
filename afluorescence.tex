@@ -358,12 +358,13 @@ the oxygen diffusion depth is greater at lower dose rates,
 we expect the damage for the same dose at different dose rates to
 increase up to the point where the dose rate is low enough that oxygen
 permeates the entire sample.  The dose rate effect should plateau
-at this point.  Specifically, we predict that the light output
+at this point.  Specifically, we predict (following \cite{Wick1991472}) that the light output
 reduction should depend on both the dose and the dose rate as:
 $$ L(R,D) = 1 - [f(D)Z(R) + a(D)(1-Z(R))]$$
 where L is the \% light yield, D is the dose, R is the dose rate, 
 Z(R) is the fraction of the scintillator containing 
-oxygen and is given by $min({{2 z_0(R)}\over{d}},1)$
+oxygen and is given by
+$$Z(R)=min({{2 z_0(R)}\over{d}},1)$$
 where d is the thickness of the scintillator and $z_0$ gives
 the depth of scintillator penetrated by oxygen,
 a(D) is related to the fraction of quenching in the part of
@@ -371,7 +372,7 @@ the scintillator containing oxygen and is given by $1-e^{-a_0 D}$,
 and
 f(D) is related to the fraction of quenching in the part of
 the scintillator not containing oxygen and is given by $1-e^{-f_0 D}$.
-The diffusion depth $z_0(R)$ is given by diffusion theory as 
+The diffusion depth $z_0(R)$ is given by diffusion theory as
 $$z_0(R)=\sqrt{\gamma/R}$$
 where $\gamma$ is a property of the substrate and the radicals that
 are dissolved in that substrate during the diffusion process.
