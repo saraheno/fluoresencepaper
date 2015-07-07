@@ -1,0 +1,9 @@
+*.out
+afluoresence.pdf
+*.aux
+*.bbl
+*~
+*#
+*.spl
+*.log
+*.blg
