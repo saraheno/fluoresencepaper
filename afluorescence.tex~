@@ -96,7 +96,7 @@ than expected based
 on high dose rate exposures using ${\rm ^{60}Co}$ sources ~\cite{vasken,ByonWagner1993263}.
 
 The effect of dose and dose rate on radiation-induced yellowing have been the subject of many investigations. The results are summarized in ~\cite{sauli}.  
-Dose rate effects during irradiation for the yellowing are well documented  ~\cite{sauli,34504,Wick1991472,289295,173180,173178,Giokaris1993315,Wick2001341}.
+Dose rate effects during irradiation for the yellowing are well documented  ~\cite{sauli,34504,Wick1991472,289295,173180,173178,Giokaris1993315}.
 The presence of oxygen plays an important role.  The studies show that the penetration depth of oxygen into the substrate
 depends on the dose rate: at lower dose rates, oxygen penetrates
 more deeply.
@@ -106,7 +106,7 @@ increases the number of migration mechanisms for the radicals produced during ir
 Because of the importance of the interaction
 of oxygen with radicals produced from the substrate during irradiation, this can lead to dose rate effects.
 Simulations based on oxygen diffusion have been shown
-to reproduce the time dependence of the induced attenuation length in scintillators based on PS and PMMA~\cite{Wick2001341}.  
+to reproduce the time dependence of the induced attenuation length in scintillators based on PS and PMMA~\cite{Wick1991472}.  
 Thus, immediately after irradiation at a high dose rate (Mrads/hr), 
 the probability of absorption for visible light increases for wavelengths shorter than around 600 nm (yellow) due to color centers that form in the substrate~\cite{Bross199135}.  At low dose rate, because the oxygen penetrates deeper,
 the initial damage is less.  At very low dose rates, sufficient migration
